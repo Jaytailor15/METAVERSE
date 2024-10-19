@@ -90,7 +90,7 @@ All of the projects of this repo can be seen in the deployment link in the **abo
 
 <h2 id="achievement">Achievement 🏆</h2>
 
-**METAVERSE** repo has secured a position in *top 50 maintainer repositories* in **QUINE HACTOBERFEST** challenge 🏅
+**METAVERSE** repo has secured a position in *top 50 maintainer repositories* in **QUINE HACKTOBERFEST** challenge 🏅
 
 <h2 id="available-projects">Available Projects</h2>
 
